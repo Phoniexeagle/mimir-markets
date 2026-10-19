@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-455-feat-devx-add-json-output-to-the-agent-balance",
+    "fix/issue-392-perf-ui-split-the-2-6k-line-docs-page-into",
+    "fix/issue-426-refactor-ui-move-vs-design-preview-fixtures-out",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-455-feat-devx-add-json-output-to-the-agent-balance": "main",
+    "fix/issue-392-perf-ui-split-the-2-6k-line-docs-page-into": "main",
+    "fix/issue-426-refactor-ui-move-vs-design-preview-fixtures-out": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-455-feat-devx-add-json-output-to-the-agent-balance",
+    "fix/issue-392-perf-ui-split-the-2-6k-line-docs-page-into",
+    "fix/issue-426-refactor-ui-move-vs-design-preview-fixtures-out",
+    "origin"
+  ]
+}
